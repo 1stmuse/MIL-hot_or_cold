@@ -62,11 +62,11 @@
     height: 100%;
     width: 0%;
     background-color: orangered;
+    transition: width 0.8s;
     border-radius: inherit;
 }
 .tempStatus{
     font-weight: bold;
     color: orangered;
     margin-top: 10px;
-    transform: width 0.5s;
 }
