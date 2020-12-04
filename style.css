@@ -68,4 +68,5 @@
     font-weight: bold;
     color: orangered;
     margin-top: 10px;
+    transform: width 0.5s;
 }
